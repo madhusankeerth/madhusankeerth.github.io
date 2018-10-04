@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Well Spidey
+<h2>Well Spidey</h2>
 
 _yay_
 
