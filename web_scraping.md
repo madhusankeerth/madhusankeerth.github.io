@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Well Spidey! With great power comes great responsibility!
+##Well Spidey
 
 _yay_
 
